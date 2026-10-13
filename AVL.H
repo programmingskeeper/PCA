@@ -2,6 +2,7 @@
 
 struct NodeAVL{
     int Data;
-    int *left, *right;
+    int BF;
+    NodeAVL *left, *right;
 };
 
