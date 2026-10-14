@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
-struct Coords
+typedef struct Coords
 {
   int x,y;   
-};
+}Coords;
 
 int computemax(int a, int b){
     return(a>b ? a:b);
@@ -26,7 +26,6 @@ int main(){
             max=computemax(max,a);
             sum+=a;
         }
-        if(distance==a && n==1){printf("YES\n"); continue;}
         max_d=sum;
         sum=sum-max;
         min_d = (max <= sum) ? 0 : max - sum;
