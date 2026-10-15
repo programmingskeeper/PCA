@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AVLTREES\\x64\\Debug\\AVL.obj",
+            "outputs": [
+                "AVLTREES\\x64\\Debug\\AVL.cpp.obj.dt.module.json",
+                "AVLTREES\\x64\\Debug\\AVL.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
