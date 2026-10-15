@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AVL_Treese.vcxproj" Id="d2feec23-e008-42ce-a7dc-821afa55d741" />
+</Solution>

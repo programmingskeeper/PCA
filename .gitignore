@@ -1,0 +1,18 @@
+# Foldere ascunse de la editoare
+.vs/
+.vscode/
+
+# Foldere cu cod compilat
+x64/
+Debug/
+Release/
+
+# Fisiere binare si temporare
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.db
